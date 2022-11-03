@@ -1,11 +1,5 @@
 # Money Manager
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-
 <img src="https://lh3.googleusercontent.com/Y4U4N3Uo12J-7LawyyWsb7xiVkkCli94pfY0S_iKLNqQmFL9IUdUjGJu2UI8JORAp_jYvIZFaKSUDlbdSKF0Ba1ZDzaoLefSZvZcBVsszsLrS3IAIsJ0AaIAIDGctl1X8LHbylF8oBJI-6D9dUsuXRGESLDsVSExQMeiNCxYg6d1tDl76t9WGvryozBB3n1rXgKVm1pxdoPewqUgxmO06iRAgpIH7Y4l-6xpLpsX7wLxy4fZNxN47OAVPogR3FAtRMAvyuENM1I9PXKQjlUw6fePWiseotma84d8KDl9AhS4rahrLOtZ1ATC3H6gQZiX3kaxHRPBQink2-h5mfVDIpYpIWAtLmgNcc_7Wmu-8bFizzux7kOUuOVhpQ5FGKt7f1Nps1Dt0KZ06WPdr9xbjGM98pdB1uuTErWiea6pCjoBDmEbWCSR5e6r55I9MQ3Z2soIBNrxxc9l7wp-gadvN2Zd0x0G9NlhisQberOqujSJfRISRssEXe_IQP4mxSMilrT7vQTs_0Jmjty6tyBlFBcnDT1ZKpaampHzQQ244umvlvOCc44u0tf6x9QvltJA9AxCVuNyDW-zyUEfWFpJ43-43pqPZEy34u7AnBpGb6qgWLtV06Qc2qg7wR6Pl4IoB8KHxvB7IE3mExmssL6ZUb4cUxdG79RvcuWEcR_bXInXLJ92JbvEMDplwd7JmeW9FWGJtvRfbS3CYSQ-K9aO-fPcH90Kdl5lXq4mHheGpgZzYXru9dUgKC_N8Z6KY0pOosUa52BbicVfgfQzVYrbztyIRFiq9Enveb4M-681jaIwvERLml2x3p31VcvGyb0vKnBw_XM0tROVA-Ml-PpmtNJkGc7_djc-oRlf3geXBQjSwxlmTvfb5GALJAVdHx63i6Kw2T13rDhpXot-9LOfTRWuHe2O5XJlmj2fq7D7VnrlOPf3BAE1vJPzz5zr8PQFUgNFtOmLk0lKLYg=w1784-h874-no?authuser=0" alt="DT Money">
 
 > Money Manager is a website to manage your incomes and outcomes. It was created using React (useState, useMemo, useCallback, useEffect), zod and React Hook State to forms, Radix UI to Modal, Styled-components, Axios, Phosphor-icons and writed with Typescript. Ficticious backend we used json-server.
@@ -61,4 +55,4 @@ We thank the following people who contributed to this project:
   </tr>
 </table>
 
-[⬆ Back to the top](#nome-do-projeto)<br>
+[⬆ Back to the top]<br>
